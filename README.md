@@ -1,4 +1,4 @@
-# Classification models made by scratch
+# Classification models made from scratch
 
 **IMPORTANT** : The culmination of our work is in ProjetFinal/ProjetFinal.ipynb
 

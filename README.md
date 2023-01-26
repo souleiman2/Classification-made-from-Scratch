@@ -1,6 +1,6 @@
 # Classification models made by scratch
 
-**IMPORTANT** : The culmination of our work is in situated in ProjetFinal/ProjetFinal.ipynb
+**IMPORTANT** : The culmination of our work is in ProjetFinal/ProjetFinal.ipynb
 
 Recently, AI and machine learning have taken on a major importance in the field of health. Indeed, the possibility of automatically carrying out diagnoses has made our health system (contrary to appearances) much more efficient. In this context, we wanted to improve our understanding of supervised classification by studying the case of classification of benign versus malignant tumors.
 
